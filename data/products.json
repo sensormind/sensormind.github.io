@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": "prahari",
+      "type": "product",
+      "name": "Prehri",
+      "badge": "Flagship Product",
+      "summary": "An optimized rolling shutter safety solution designed to integrate with existing shutter systems and improve operational safety.",
+      "description": "Prehri adds intelligent monitoring and safety mechanisms to current rolling shutter infrastructure without requiring significant modifications.",
+      "images": [
+        "resources/products/prahari/prahari-1.jpeg",
+        "resources/products/prahari/prahari-2.jpeg",
+        "resources/products/prahari/prahari-3.jpeg",
+        "resources/products/prahari/prahari-4.jpeg"
+      ],
+      "specs": [
+        "Rolling Shutter Safety",
+        "Easy Integration",
+        "Risk Reduction",
+        "Cost-Effective Upgrade"
+      ],
+      "cta": "Request Quote"
+    },
+    {
+      "id": "iot-consultancy",
+      "type": "service",
+      "name": "IoT Consultancy",
+      "badge": "Service",
+      "summary": "Guidance for IoT solution design, system architecture, technology selection, and deployment strategy.",
+      "description": "We help businesses, institutions, and organizations adopt IoT technologies with practical, implementation-ready planning.",
+      "images": [
+        "resources/stock-smart-sensors.jpg"
+      ],
+      "specs": [
+        "Solution Design",
+        "System Architecture",
+        "Technology Selection",
+        "Deployment Strategy"
+      ],
+      "cta": "Request Consultation"
+    },
+    {
+      "id": "skill-training",
+      "type": "service",
+      "name": "Skill-Based Training",
+      "badge": "Service",
+      "summary": "Industry-oriented programs focused on emerging technologies, hands-on learning, and practical applications.",
+      "description": "Training programs for students, professionals, and organizations that want relevant competencies aligned with current technology.",
+      "images": [
+        "resources/stock-training-workshop.jpg"
+      ],
+      "specs": [
+        "Students",
+        "Professionals",
+        "Organizations",
+        "Hands-On Learning"
+      ],
+      "cta": "Training Enquiry"
+    }
+  ]
+}
